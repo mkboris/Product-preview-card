@@ -10,7 +10,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 
 ## Overview
-https://github.com/mkboris/FeM-Product-preview-card-component/blob/main/images/screenshot.png
+<img href="https://github.com/mkboris/FeM-Product-preview-card-component/blob/main/images/screenshot.png">
 ### Links
 
 - Solution URL: https://github.com/mkboris/FeM-Product-preview-card-component
