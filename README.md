@@ -13,7 +13,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: https://github.com/mkboris/FeM-Product-preview-card-component
-- Live Site URL: https://mkboris.github.io/FeM-Product-preview-card-component/
+- Live Site URL: https://mkboris.github.io/Product-preview-card-component/
 
 ### Built with
 
