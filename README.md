@@ -4,12 +4,15 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
 
-## Overview
+### Screenshot
+
+![](./screenshot.jpg)
+
 ### Links
 
 - Solution URL: https://github.com/mkboris/Product-preview-card-component
@@ -23,5 +26,5 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Author
 
-- Frontend Mentor - https://www.frontendmentor.io/profile/mkboris
-- Twitter - https://www.twitter.com/mk_boris
+- Frontend Mentor - [@mkboris](https://www.frontendmentor.io/profile/mkboris)
+- Twitter - [@mk_boris](https://www.twitter.com/mk_boris)
