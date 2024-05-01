@@ -16,7 +16,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - [Solution](https://github.com/mkboris/Product-preview-card)
-- [Live Site](https://product-preview-card-component-mkboris.vercel.app/)
+- [Live Site](https://mkboris.github.io/Product-preview-card/)
 
 ### Built with
 
